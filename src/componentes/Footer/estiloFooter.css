@@ -1,0 +1,17 @@
+.footer-cont{
+    display: flex;
+    width: 95vw;
+    height: 0,5rem;
+    background: linear-gradient(to right, rgb(116, 132, 151), rgb(177, 186, 197), rgb(255, 255, 255));
+    border-radius: 26px;
+    justify-content: center;
+    margin: 12px;
+    border: solid 1px #2c3036;
+    
+
+}
+.text{
+    color: #592202;
+    padding: 12px;
+    font-size: 18px;
+}

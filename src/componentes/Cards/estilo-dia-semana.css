@@ -1,0 +1,21 @@
+.card-dia-semana{
+    width: 39vw;
+    padding: 15px;
+   background-image: url(../../imagens/chopp\ brind.jpg);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 26px;
+    margin: 0 auto;
+    background-size: 130%;
+    color: #FFF;
+    
+    font-size: 22px;
+}
+.grade-horarios{
+display:inline;
+font-size:26px;
+color:#FFF;
+
+}
+.lista{
+   margin:8px 0;
+}

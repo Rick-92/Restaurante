@@ -1,0 +1,20 @@
+.card-text{
+    justify-content: center;
+    width: 55vw;
+    height: 555px;
+    text-align: center;
+    background-image: url(../../imagens/vistaRestaurante.jpg);
+    background-size: cover;
+    border-radius: 26px;
+    display: flex;
+    margin: 0 auto;
+    color: #FFF;
+}
+.cardText{
+    color: #FFF;
+    display: flex;
+    font-size: 18px;
+    padding: 12px;
+
+
+}
